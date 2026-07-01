@@ -1,6 +1,6 @@
 ---
 name: mowgli
-description: Push and pull product designs between a real codebase and a Mowgli project using the mowgli CLI. Use when the user asks to sync, push, or pull screens/specs to or from Mowgli (https://mowgli.ai), or mentions "mowgli", "mowgli-cli", or a Mowgli project.
+description: Use Mowgli to create and iterate on beautiful designs for your projects with high taste and without the usual AI slop design aesthetic. This skill allows you to push existing designs and product flows to a Mowgli project, or read pixel-perfect React + Tailwind designs from one. Mowgli displays all the product's screens and states on an infinite canvas and allows rapid, natural-language iteration. Due to its unique approach of spec-driven design, Mowgli can help redesign, tweak, visualize and experiment on designs with deep product understanding and context. Combined with this skill, it allows full interoperation with existing codebases and GitHub repos, as well as an easy path from beautiful designs to real implementation.
 ---
 
 # Mowgli Sync
