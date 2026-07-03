@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mowgli-ai/mowgli",
+  "title": "Mowgli",
+  "description": "Intelligent product canvas: iterate on your product's design with your coding agent, synced to code.",
+  "websiteUrl": "https://mowgli.ai/agent",
+  "repository": {
+    "url": "https://github.com/mowgli-ai/skills",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/mowgli-ai/skills/master/assets/mowgli-logo.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.mowgli.ai/mcp"
+    }
+  ]
+}
