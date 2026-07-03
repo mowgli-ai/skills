@@ -1,0 +1,22 @@
+{
+  "name": "mowgli",
+  "version": "1.0.0",
+  "description": "Intelligent product canvas with context and taste - connect your coding agent to iterate on your product's design, from sweeping new flows down to surgical tweaks, and sync it back to your code.",
+  "author": {
+    "name": "mowgli-ai",
+    "url": "https://mowgli.ai"
+  },
+  "homepage": "https://mowgli.ai/agent",
+  "repository": "https://github.com/mowgli-ai/skills",
+  "keywords": [
+    "design",
+    "ui",
+    "frontend",
+    "react",
+    "tailwind",
+    "figma",
+    "product",
+    "canvas",
+    "agent-skill"
+  ]
+}
