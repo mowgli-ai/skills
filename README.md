@@ -31,7 +31,7 @@ implementation.
 This repository publishes a single skill, **`mowgli`**, which lets a coding
 agent push designs from a real codebase into a Mowgli project and pull them back.
 This is achieved using the `mowgli` CLI, published on
-[npm](https://www.npmjs.com/mowgli-cli). It keeps the screens and the
+[npm](https://www.npmjs.com/package/mowgli-cli). It keeps the screens and the
 specification in sync so the project stays spec-backed on every change.
 
 ## Install
